@@ -1,62 +1,60 @@
 set(NETWORKMGR_SRCS
     appletproxymodel.cpp
     appletproxymodel.h
-
     activeconnection.cpp
     activeconnection.h
-
     networkitemslist.cpp
     networkitemslist.h
-
     networkmodel.cpp
     networkmodel.h
-
     networkmodelitem.cpp
     networkmodelitem.h
-
     wiressitemsettings.cpp
     wiressitemsettings.h
-
     uiutils.cpp
     uiutils.h
-
     identitymodel.cpp
     identitymodel.h
-
     handler.cpp
     handler.h
-
     configuration.cpp
     configuration.h
-
     enabledconnections.cpp
     enabledconnections.h
-
     enums.cpp
     enums.h
-
     wifisettings.cpp
     wifisettings.h
-
     qmlplugins.cpp
     qmlplugins.h
 )
 
-find_package(KF5NetworkManagerQt REQUIRED)
-find_package(KF5ModemManagerQt REQUIRED)
+find_package(KF6NetworkManagerQt REQUIRED)
+# ModemManagerQt 可选
+find_package(KF6ModemManagerQt QUIET)
+if(KF6ModemManagerQt_FOUND)
+endif()
 
 add_library(cutefishnm_qmlplugins SHARED ${NETWORKMGR_SRCS})
-generate_export_header(cutefishnm_qmlplugins EXPORT_FILE_NAME ${CMAKE_CURRENT_BINARY_DIR}/networkmanager_export.h BASE_NAME NetworkManager)
+generate_export_header(cutefishnm_qmlplugins
+    EXPORT_FILE_NAME ${CMAKE_CURRENT_BINARY_DIR}/networkmanager_export.h
+    BASE_NAME NetworkManager)
 
-target_link_libraries (cutefishnm_qmlplugins
-    Qt5::Core
-    Qt5::Quick
-    Qt5::Gui
-    Qt5::DBus
-
-    KF5::NetworkManagerQt
-    KF5::ModemManagerQt
+target_include_directories(cutefishnm_qmlplugins PRIVATE
+    ${CMAKE_CURRENT_BINARY_DIR}
 )
+
+target_link_libraries(cutefishnm_qmlplugins
+    Qt6::Core
+    Qt6::Quick
+    Qt6::Gui
+    Qt6::DBus
+    KF6::NetworkManagerQt
+)
+
+if(KF6ModemManagerQt_FOUND)
+    target_link_libraries(cutefishnm_qmlplugins KF6::ModemManagerQt)
+endif()
 
 install(TARGETS cutefishnm_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Cutefish/NetworkManagement)
 install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Cutefish/NetworkManagement)

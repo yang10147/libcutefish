@@ -11,22 +11,20 @@ set(ACCOUNTS_SRCS
     qmlplugins.cpp
 )
 
-qt5_add_dbus_interface(ACCOUNTS_SRCS
+qt6_add_dbus_interface(ACCOUNTS_SRCS
                        org.freedesktop.Accounts.User.xml
                        user_interface)
-qt5_add_dbus_interface(ACCOUNTS_SRCS
+qt6_add_dbus_interface(ACCOUNTS_SRCS
                        org.freedesktop.Accounts.xml
                        accounts_interface)
 
-# set_source_files_properties(${ACCOUNTS_SRCS} PROPERTIES SKIP_AUTOGEN ON)
-
 add_library(cutefishaccounts_qmlplugins SHARED ${ACCOUNTS_SRCS})
 
-target_link_libraries (cutefishaccounts_qmlplugins
-    Qt5::Core
-    Qt5::DBus
-    Qt5::Quick
-    Qt5::Gui
+target_link_libraries(cutefishaccounts_qmlplugins
+    Qt6::Core
+    Qt6::DBus
+    Qt6::Quick
+    Qt6::Gui
 )
 
 install(TARGETS cutefishaccounts_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Cutefish/Accounts)
