@@ -1,0 +1,27 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "" "system/cutefishsystem_qmlplugins_autogen/timestamp" "custom" "system/cutefishsystem_qmlplugins_autogen/deps"
+  "/home/yong/libcutefish/build/system/cutefishsystem_qmlplugins_autogen/mocs_compilation.cpp" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/cutefishsystem_qmlplugins_autogen/mocs_compilation.cpp.o" "gcc" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/cutefishsystem_qmlplugins_autogen/mocs_compilation.cpp.o.d"
+  "/home/yong/libcutefish/system/plugin.cpp" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/plugin.cpp.o" "gcc" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/plugin.cpp.o.d"
+  "/home/yong/libcutefish/system/wallpaper.cpp" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/wallpaper.cpp.o" "gcc" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/wallpaper.cpp.o.d"
+  "" "system/libcutefishsystem_qmlplugins.so" "gcc" "system/CMakeFiles/cutefishsystem_qmlplugins.dir/link.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

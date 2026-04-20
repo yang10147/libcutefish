@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_cutefishaccounts_qmlplugins_FILE /home/yong/libcutefish/build/accounts/libcutefishaccounts_qmlplugins.so)
+set(__QT_DEPLOY_TARGET_cutefishaccounts_qmlplugins_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_cutefishsystem_qmlplugins_FILE /home/yong/libcutefish/build/system/libcutefishsystem_qmlplugins.so)
+set(__QT_DEPLOY_TARGET_cutefishsystem_qmlplugins_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_cutefishnm_qmlplugins_FILE /home/yong/libcutefish/build/networkmanagement/libcutefishnm_qmlplugins.so)
+set(__QT_DEPLOY_TARGET_cutefishnm_qmlplugins_TYPE SHARED_LIBRARY)

@@ -1,0 +1,344 @@
+{
+	"BUILD_DIR" : "/home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen",
+	"CMAKE_BINARY_DIR" : "/home/yong/libcutefish/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/yong/libcutefish/build/networkmanagement",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/yong/libcutefish/networkmanagement",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/yong/libcutefish/networkmanagement/CMakeLists.txt",
+		"/usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfigVersion.cmake",
+		"/usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake",
+		"/usr/share/cmake/Modules/MacroAddFileDependencies.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusVersionlessAliasTargets.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake",
+		"/usr/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cmake",
+		"/usr/share/cmake/Modules/FindPkgConfig.cmake",
+		"/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake/Modules/FindPackageMessage.cmake",
+		"/usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets.cmake",
+		"/usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets-noconfig.cmake",
+		"/usr/lib/cmake/KF6ModemManagerQt/KF6ModemManagerQtConfigVersion.cmake",
+		"/usr/lib/cmake/KF6ModemManagerQt/KF6ModemManagerQtConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"/usr/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusTargetsPrecheck.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake",
+		"/usr/share/cmake/Modules/MacroAddFileDependencies.cmake",
+		"/usr/lib/cmake/Qt6DBus/Qt6DBusVersionlessAliasTargets.cmake",
+		"/usr/lib/cmake/KF6ModemManagerQt/KF6ModemManagerQtTargets.cmake",
+		"/usr/lib/cmake/KF6ModemManagerQt/KF6ModemManagerQtTargets-noconfig.cmake",
+		"/usr/share/cmake/Modules/exportheader.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/yong/libcutefish",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "cutefishnm_qmlplugins_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/yong/libcutefish/networkmanagement/activeconnection.h",
+			"MU",
+			"EWIEGA46WW/moc_activeconnection.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/appletproxymodel.h",
+			"MU",
+			"EWIEGA46WW/moc_appletproxymodel.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/configuration.h",
+			"MU",
+			"EWIEGA46WW/moc_configuration.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/enabledconnections.h",
+			"MU",
+			"EWIEGA46WW/moc_enabledconnections.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/enums.h",
+			"MU",
+			"EWIEGA46WW/moc_enums.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/handler.h",
+			"MU",
+			"EWIEGA46WW/moc_handler.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/identitymodel.h",
+			"MU",
+			"EWIEGA46WW/moc_identitymodel.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/networkitemslist.h",
+			"MU",
+			"EWIEGA46WW/moc_networkitemslist.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/networkmodel.h",
+			"MU",
+			"EWIEGA46WW/moc_networkmodel.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/networkmodelitem.h",
+			"MU",
+			"EWIEGA46WW/moc_networkmodelitem.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/qmlplugins.h",
+			"MU",
+			"EWIEGA46WW/moc_qmlplugins.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/uiutils.h",
+			"MU",
+			"EWIEGA46WW/moc_uiutils.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/wifisettings.h",
+			"MU",
+			"EWIEGA46WW/moc_wifisettings.cpp",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/wiressitemsettings.h",
+			"MU",
+			"EWIEGA46WW/moc_wiressitemsettings.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"cutefishnm_qmlplugins_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/yong/libcutefish/build/networkmanagement",
+		"/home/yong/libcutefish/networkmanagement",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtQuick",
+		"/usr/include/qt6/QtGui",
+		"/usr/include/qt6/QtQml",
+		"/usr/include/qt6/QtQmlIntegration",
+		"/usr/include/qt6/QtNetwork",
+		"/usr/include/qt6/QtOpenGL",
+		"/usr/include/qt6/QtDBus",
+		"/usr/include/KF6/NetworkManagerQt",
+		"/usr/include/libnm",
+		"/usr/include/glib-2.0",
+		"/usr/lib/glib-2.0/include",
+		"/usr/include/libmount",
+		"/usr/include/blkid",
+		"/usr/include/sysprof-6",
+		"/usr/include/KF6/ModemManagerQt",
+		"/usr/include/ModemManager",
+		"/usr/include",
+		"/usr/include/c++/15.2.1",
+		"/usr/include/c++/15.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/15.2.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/yong/libcutefish/build/networkmanagement/CMakeFiles/cutefishnm_qmlplugins_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "/home/yong/libcutefish/build/networkmanagement/CMakeFiles/cutefishnm_qmlplugins_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/yong/libcutefish/networkmanagement/activeconnection.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/appletproxymodel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/configuration.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/enabledconnections.cpp",
+			"MU",
+			null
+		],
+		[ "/home/yong/libcutefish/networkmanagement/enums.cpp", "MU", null ],
+		[ "/home/yong/libcutefish/networkmanagement/handler.cpp", "MU", null ],
+		[
+			"/home/yong/libcutefish/networkmanagement/identitymodel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/networkitemslist.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/networkmodel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/networkmodelitem.cpp",
+			"MU",
+			null
+		],
+		[ "/home/yong/libcutefish/networkmanagement/qmlplugins.cpp", "MU", null ],
+		[ "/home/yong/libcutefish/networkmanagement/uiutils.cpp", "MU", null ],
+		[
+			"/home/yong/libcutefish/networkmanagement/wifisettings.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/yong/libcutefish/networkmanagement/wiressitemsettings.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

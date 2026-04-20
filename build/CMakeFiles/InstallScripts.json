@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/yong/libcutefish/build/cmake_install.cmake",
+		"/home/yong/libcutefish/build/accounts/cmake_install.cmake",
+		"/home/yong/libcutefish/build/system/cmake_install.cmake",
+		"/home/yong/libcutefish/build/networkmanagement/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

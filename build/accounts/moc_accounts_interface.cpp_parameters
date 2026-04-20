@@ -1,0 +1,5 @@
+-I/home/yong/libcutefish/accounts
+-I/home/yong/libcutefish/build/accounts
+-o
+/home/yong/libcutefish/build/accounts/moc_accounts_interface.cpp
+/home/yong/libcutefish/build/accounts/accounts_interface.h
