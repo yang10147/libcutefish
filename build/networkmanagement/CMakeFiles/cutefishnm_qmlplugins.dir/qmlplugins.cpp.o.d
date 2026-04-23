@@ -1,8 +1,6 @@
 networkmanagement/CMakeFiles/cutefishnm_qmlplugins.dir/qmlplugins.cpp.o: \
  /home/yong/libcutefish/networkmanagement/qmlplugins.cpp \
- /usr/include/stdc-predef.h \
- /home/yong/libcutefish/networkmanagement/qmlplugins.h \
- /usr/include/qt6/QtQml/QQmlExtensionPlugin \
+ /usr/include/stdc-predef.h /usr/include/qt6/QtQml/QQmlExtensionPlugin \
  /usr/include/qt6/QtQml/qqmlextensionplugin.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
@@ -341,7 +339,26 @@ networkmanagement/CMakeFiles/cutefishnm_qmlplugins.dir/qmlplugins.cpp.o: \
  /usr/include/qt6/QtNetwork/qtnetworkglobal.h \
  /usr/include/qt6/QtNetwork/qtnetwork-config.h \
  /usr/include/qt6/QtNetwork/qtnetworkexports.h \
- /usr/include/qt6/QtQml/qtqmlexports.h \
+ /usr/include/qt6/QtQml/qtqmlexports.h /usr/include/qt6/QtQml/QQmlEngine \
+ /usr/include/qt6/QtQml/qqmlengine.h /usr/include/qt6/QtQml/qjsengine.h \
+ /usr/include/qt6/QtCore/qtimezone.h /usr/include/qt6/QtQml/qjsvalue.h \
+ /usr/include/qt6/QtQml/qjsmanagedvalue.h \
+ /usr/include/qt6/QtQml/qjsprimitivevalue.h \
+ /usr/include/qt6/QtQml/qjsnumbercoercion.h \
+ /usr/include/qt6/QtQml/qqmldebug.h /usr/include/qt6/QtQml/qqml.h \
+ /usr/include/qt6/QtQml/qqmlprivate.h /usr/include/qt6/QtQml/qqmllist.h \
+ /usr/include/qt6/QtQml/qqmlparserstatus.h \
+ /usr/include/qt6/QtQml/qqmlpropertyvaluesource.h \
+ /usr/include/qt6/QtCore/qmetasequence.h \
+ /usr/include/qt6/QtCore/qiterable_impl.h \
+ /usr/include/qt6/QtCore/qmetaobject.h \
+ /usr/include/qt6/QtCore/qversionnumber.h /usr/include/qt6/QtCore/qspan.h \
+ /usr/include/c++/15.2.1/cassert /usr/include/qt6/QtCore/q20iterator.h \
+ /usr/include/qt6/QtCore/qtyperevision.h \
+ /usr/include/qt6/QtQml/qqmlregistration.h \
+ /usr/include/qt6/QtQmlIntegration/qqmlintegration.h \
+ /usr/include/qt6/QtQml/qqmlerror.h \
+ /usr/include/qt6/QtQml/qqmlabstracturlinterceptor.h \
  /home/yong/libcutefish/networkmanagement/networkmodel.h \
  /home/yong/libcutefish/build/networkmanagement/networkmanager_export.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
@@ -764,8 +781,7 @@ networkmanagement/CMakeFiles/cutefishnm_qmlplugins.dir/qmlplugins.cpp.o: \
  /usr/include/qt6/QtNetwork/qnetworkinterface.h \
  /usr/include/qt6/QtNetwork/qhostaddress.h \
  /usr/include/qt6/QtNetwork/qabstractsocket.h \
- /usr/include/qt6/QtCore/qiodevice.h /usr/include/qt6/QtCore/qspan.h \
- /usr/include/c++/15.2.1/cassert /usr/include/qt6/QtCore/q20iterator.h \
+ /usr/include/qt6/QtCore/qiodevice.h \
  /usr/include/KF6/NetworkManagerQt/networkmanagerqt/iproute.h \
  /usr/include/KF6/NetworkManagerQt/networkmanagerqt/device.h \
  /usr/include/KF6/NetworkManagerQt/networkmanagerqt/devicestatistics.h \
@@ -818,22 +834,6 @@ networkmanagement/CMakeFiles/cutefishnm_qmlplugins.dir/qmlplugins.cpp.o: \
  /home/yong/libcutefish/networkmanagement/enums.h \
  /home/yong/libcutefish/networkmanagement/wifisettings.h \
  /home/yong/libcutefish/networkmanagement/configuration.h \
- /usr/include/qt6/QtQml/QQmlEngine /usr/include/qt6/QtQml/qqmlengine.h \
- /usr/include/qt6/QtQml/qjsengine.h /usr/include/qt6/QtCore/qtimezone.h \
- /usr/include/qt6/QtQml/qjsvalue.h \
- /usr/include/qt6/QtQml/qjsmanagedvalue.h \
- /usr/include/qt6/QtQml/qjsprimitivevalue.h \
- /usr/include/qt6/QtQml/qjsnumbercoercion.h \
- /usr/include/qt6/QtQml/qqmldebug.h /usr/include/qt6/QtQml/qqml.h \
- /usr/include/qt6/QtQml/qqmlprivate.h /usr/include/qt6/QtQml/qqmllist.h \
- /usr/include/qt6/QtQml/qqmlparserstatus.h \
- /usr/include/qt6/QtQml/qqmlpropertyvaluesource.h \
- /usr/include/qt6/QtCore/qmetasequence.h \
- /usr/include/qt6/QtCore/qiterable_impl.h \
- /usr/include/qt6/QtCore/qmetaobject.h \
- /usr/include/qt6/QtCore/qversionnumber.h \
- /usr/include/qt6/QtCore/qtyperevision.h \
- /usr/include/qt6/QtQml/qqmlregistration.h \
- /usr/include/qt6/QtQmlIntegration/qqmlintegration.h \
- /usr/include/qt6/QtQml/qqmlerror.h \
- /usr/include/qt6/QtQml/qqmlabstracturlinterceptor.h
+ /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/include/qmlplugins.moc \
+ /usr/include/qt6/QtCore/qtmochelpers.h \
+ /usr/include/qt6/QtCore/qtmocconstants.h

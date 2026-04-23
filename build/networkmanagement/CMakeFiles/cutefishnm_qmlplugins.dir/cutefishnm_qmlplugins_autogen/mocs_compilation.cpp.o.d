@@ -815,22 +815,6 @@ networkmanagement/CMakeFiles/cutefishnm_qmlplugins.dir/cutefishnm_qmlplugins_aut
  /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/../../../../networkmanagement/networkmodel.h \
  /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/moc_networkmodelitem.cpp \
  /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/../../../../networkmanagement/networkmodelitem.h \
- /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/moc_qmlplugins.cpp \
- /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/../../../../networkmanagement/qmlplugins.h \
- /usr/include/qt6/QtQml/QQmlExtensionPlugin \
- /usr/include/qt6/QtQml/qqmlextensionplugin.h \
- /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \
- /usr/include/qt6/QtCore/qjsonobject.h \
- /usr/include/qt6/QtCore/qjsonvalue.h \
- /usr/include/qt6/QtCore/qcborvalue.h \
- /usr/include/qt6/QtCore/qcborcommon.h /usr/include/qt6/QtCore/qurl.h \
- /usr/include/qt6/QtCore/quuid.h /usr/include/qt6/QtCore/qendian.h \
- /usr/include/qt6/QtCore/qjsondocument.h \
- /usr/include/qt6/QtCore/qjsonparseerror.h /usr/include/qt6/QtCore/QUrl \
- /usr/include/qt6/QtQml/qqmlextensioninterface.h \
- /usr/include/qt6/QtQml/qtqmlglobal.h \
- /usr/include/qt6/QtQml/qtqml-config.h \
- /usr/include/qt6/QtQml/qtqmlexports.h \
  /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/moc_wifisettings.cpp \
  /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/../../../../networkmanagement/wifisettings.h \
  /home/yong/libcutefish/build/networkmanagement/cutefishnm_qmlplugins_autogen/EWIEGA46WW/moc_wiressitemsettings.cpp \

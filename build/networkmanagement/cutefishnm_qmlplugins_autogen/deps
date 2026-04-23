@@ -843,6 +843,7 @@ cutefishnm_qmlplugins_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qiodevice.h \
 	/usr/include/qt6/QtCore/qiodevicebase.h \
 	/usr/include/qt6/QtCore/qiterable.h \
+	/usr/include/qt6/QtCore/qiterable_impl.h \
 	/usr/include/qt6/QtCore/qiterator.h \
 	/usr/include/qt6/QtCore/qjsondocument.h \
 	/usr/include/qt6/QtCore/qjsonobject.h \
@@ -857,6 +858,8 @@ cutefishnm_qmlplugins_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qmap.h \
 	/usr/include/qt6/QtCore/qmath.h \
 	/usr/include/qt6/QtCore/qmetacontainer.h \
+	/usr/include/qt6/QtCore/qmetaobject.h \
+	/usr/include/qt6/QtCore/qmetasequence.h \
 	/usr/include/qt6/QtCore/qmetatype.h \
 	/usr/include/qt6/QtCore/qminmax.h \
 	/usr/include/qt6/QtCore/qnamespace.h \
@@ -908,6 +911,7 @@ cutefishnm_qmlplugins_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qtextstream.h \
 	/usr/include/qt6/QtCore/qtformat_impl.h \
 	/usr/include/qt6/QtCore/qtimer.h \
+	/usr/include/qt6/QtCore/qtimezone.h \
 	/usr/include/qt6/QtCore/qtmetamacros.h \
 	/usr/include/qt6/QtCore/qtnoop.h \
 	/usr/include/qt6/QtCore/qtpreprocessorsupport.h \
@@ -917,6 +921,7 @@ cutefishnm_qmlplugins_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qtversion.h \
 	/usr/include/qt6/QtCore/qtversionchecks.h \
 	/usr/include/qt6/QtCore/qtypeinfo.h \
+	/usr/include/qt6/QtCore/qtyperevision.h \
 	/usr/include/qt6/QtCore/qtypes.h \
 	/usr/include/qt6/QtCore/qurl.h \
 	/usr/include/qt6/QtCore/qutf8stringview.h \
@@ -924,6 +929,7 @@ cutefishnm_qmlplugins_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qvariant.h \
 	/usr/include/qt6/QtCore/qvariantmap.h \
 	/usr/include/qt6/QtCore/qvarlengtharray.h \
+	/usr/include/qt6/QtCore/qversionnumber.h \
 	/usr/include/qt6/QtCore/qversiontagging.h \
 	/usr/include/qt6/QtCore/qxptype_traits.h \
 	/usr/include/qt6/QtCore/qyieldcpu.h \
@@ -949,12 +955,29 @@ cutefishnm_qmlplugins_autogen/timestamp: \
 	/usr/include/qt6/QtNetwork/qtnetwork-config.h \
 	/usr/include/qt6/QtNetwork/qtnetworkexports.h \
 	/usr/include/qt6/QtNetwork/qtnetworkglobal.h \
+	/usr/include/qt6/QtQml/QQmlEngine \
 	/usr/include/qt6/QtQml/QQmlExtensionPlugin \
+	/usr/include/qt6/QtQml/qjsengine.h \
+	/usr/include/qt6/QtQml/qjsmanagedvalue.h \
+	/usr/include/qt6/QtQml/qjsnumbercoercion.h \
+	/usr/include/qt6/QtQml/qjsprimitivevalue.h \
+	/usr/include/qt6/QtQml/qjsvalue.h \
+	/usr/include/qt6/QtQml/qqml.h \
+	/usr/include/qt6/QtQml/qqmlabstracturlinterceptor.h \
+	/usr/include/qt6/QtQml/qqmldebug.h \
+	/usr/include/qt6/QtQml/qqmlengine.h \
+	/usr/include/qt6/QtQml/qqmlerror.h \
 	/usr/include/qt6/QtQml/qqmlextensioninterface.h \
 	/usr/include/qt6/QtQml/qqmlextensionplugin.h \
+	/usr/include/qt6/QtQml/qqmllist.h \
+	/usr/include/qt6/QtQml/qqmlparserstatus.h \
+	/usr/include/qt6/QtQml/qqmlprivate.h \
+	/usr/include/qt6/QtQml/qqmlpropertyvaluesource.h \
+	/usr/include/qt6/QtQml/qqmlregistration.h \
 	/usr/include/qt6/QtQml/qtqml-config.h \
 	/usr/include/qt6/QtQml/qtqmlexports.h \
 	/usr/include/qt6/QtQml/qtqmlglobal.h \
+	/usr/include/qt6/QtQmlIntegration/qqmlintegration.h \
 	/usr/include/sched.h \
 	/usr/include/signal.h \
 	/usr/include/stdc-predef.h \

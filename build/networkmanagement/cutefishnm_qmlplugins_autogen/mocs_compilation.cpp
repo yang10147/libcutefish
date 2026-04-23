@@ -9,6 +9,5 @@
 #include "EWIEGA46WW/moc_networkitemslist.cpp"
 #include "EWIEGA46WW/moc_networkmodel.cpp"
 #include "EWIEGA46WW/moc_networkmodelitem.cpp"
-#include "EWIEGA46WW/moc_qmlplugins.cpp"
 #include "EWIEGA46WW/moc_wifisettings.cpp"
 #include "EWIEGA46WW/moc_wiressitemsettings.cpp"
